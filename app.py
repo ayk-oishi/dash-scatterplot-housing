@@ -8,7 +8,7 @@ import pandas as pd
 
 tabtitle = 'DC Housing'
 myheading='Analysis of housing prices in Washington DC'
-neighborhood='Brookland
+neighborhood='Brookland'
 color1='pink'
 color2='#1B03B1'
 sourceurl = 'https://www.kaggle.com/christophercorrea/dc-residential-properties/'
